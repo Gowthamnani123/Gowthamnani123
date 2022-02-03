@@ -1,7 +1,7 @@
 <h1>
     <img src="https://media.giphy.com/media/Lpnun3kJinrVRGmi8a/giphy.gif" width="150px"> <img src="https://media.giphy.com/media/ocjhydmeZ2fw4/giphy.gif" width="150px">
     <br>
-     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;𝕀 𝕒𝕞 𝔾𝕠𝕨𝕥𝕙𝕒𝕞
+     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;𝕀 𝕒𝕞 𝔾𝕠𝕨𝕥𝕙𝕒𝕞
 </h1>
 
 <hr>
