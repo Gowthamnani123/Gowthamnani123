@@ -8,7 +8,6 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=Gowtham123&&show_icons=true&theme=swift)
 
-
  <hr>
 
 <!--
