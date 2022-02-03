@@ -5,7 +5,11 @@
 </h1>
 
 
-
+##  About Meee <img src="https://media.giphy.com/media/fWrorpy7Jrlvi/giphy.gif" width="80px"> 
+-  My name is **Kalamandalapadu Gowtham**
+-  I'm a student of **B.Tech Computer Science & Technology** 
+-  I am interested in **Software Developer** , **Google Analytics** and **Web Development**
+-  My favourite language for **DSA** and **general programming** is **C++**
 
 
 <!--
