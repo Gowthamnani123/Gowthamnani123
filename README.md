@@ -12,13 +12,13 @@
 -  My favourite language for **DSA** and **general programming** is **C++**
 
 
-<!--
+
 <hr>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=Gowtham123&&show_icons=true&theme=swift)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamnani123&theme=swift&layout=compact)
 
  <hr>
--->
+
 
 
 
